@@ -1,0 +1,7 @@
+os: osx
+
+language: objective-c
+osx_image: xcode10.1
+xcode_workspace: FootballFanExperience.xcworkspace
+script:
+  - fastlane tests

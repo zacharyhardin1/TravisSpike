@@ -12,6 +12,13 @@
 
 
 ## Setting up Fastlane:
+
 `fastlane init`
+
 Update Fastlane file 
+
 `fastlane tests`
+
+## Setting up Travis:
+See: https://docs.travis-ci.com/user/tutorial/
+
