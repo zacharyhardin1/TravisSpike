@@ -50,7 +50,7 @@
 				<array/>
 			</dict>
 			<key>EndedTime</key>
-			<date>2019-01-09T17:35:39Z</date>
+			<date>2019-01-09T19:06:36Z</date>
 			<key>RunDestination</key>
 			<dict>
 				<key>LocalComputer</key>
@@ -144,7 +144,7 @@
 			<key>SchemeTask</key>
 			<string>Build</string>
 			<key>StartedTime</key>
-			<date>2019-01-09T17:34:46Z</date>
+			<date>2019-01-09T19:05:39Z</date>
 			<key>Title</key>
 			<string>Build "TravisSpike"</string>
 		</dict>
@@ -164,15 +164,57 @@
 				<key>LogPath</key>
 				<string>2_Test/action.xcactivitylog</string>
 				<key>Status</key>
-				<string>IDEActionResultStatus_Succeeded</string>
+				<string>IDEActionResultStatus_Failed</string>
 				<key>TestFailureSummaries</key>
-				<array/>
+				<array>
+					<dict>
+						<key>DocumentLocationData</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUGIiNYJHZl
+						cnNpb25YJG9iamVjdHNZJGFyY2hp
+						dmVyVCR0b3ASAAGGoKQHCBkaVSRu
+						dWxs2gkKCwwNDg8QERITFBQVFRYX
+						GBcUW2RvY3VtZW50VVJMXxAUc3Rh
+						cnRpbmdDb2x1bW5OdW1iZXJfEBJl
+						bmRpbmdDb2x1bW5OdW1iZXJfEBFj
+						aGFyYWN0ZXJSYW5nZUxlbl8QEGxv
+						Y2F0aW9uRW5jb2RpbmdWJGNsYXNz
+						XxAQZW5kaW5nTGluZU51bWJlcll0
+						aW1lc3RhbXBfEBJzdGFydGluZ0xp
+						bmVOdW1iZXJfEBFjaGFyYWN0ZXJS
+						YW5nZUxvY4ACE///////////EACA
+						AxAKgABfEFtmaWxlOi8vL1VzZXJz
+						L3phY2hhcnloYXJkaW4vRGVza3Rv
+						cC9UcmF2aXNTcGlrZS9UcmF2aXNT
+						cGlrZVVJVGVzdHMvVHJhdmlzU3Bp
+						a2VVSVRlc3RzLnN3aWZ00hscHR5a
+						JGNsYXNzbmFtZVgkY2xhc3Nlc18Q
+						F0RWVFRleHREb2N1bWVudExvY2F0
+						aW9uox8gIV8QF0RWVFRleHREb2N1
+						bWVudExvY2F0aW9uXxATRFZURG9j
+						dW1lbnRMb2NhdGlvblhOU09iamVj
+						dF8QD05TS2V5ZWRBcmNoaXZlctEk
+						JVRyb290gAEACAARABoAIwAtADIA
+						NwA8AEIAVwBjAHoAjwCjALYAvQDQ
+						ANoA7wEDAQUBDgEQARIBFAEWAXQB
+						eQGEAY0BpwGrAcUB2wHkAfYB+QH+
+						AAAAAAAAAgEAAAAAAAAAJgAAAAAA
+						AAAAAAAAAAAAAgA=
+						</data>
+						<key>IssueType</key>
+						<string>Uncategorized</string>
+						<key>Message</key>
+						<string>XCTAssertTrue failed - </string>
+						<key>TestCase</key>
+						<string>TravisSpikeUITests.testExample()</string>
+					</dict>
+				</array>
 				<key>TestSummaryPath</key>
 				<string>2_Test/action_TestSummaries.plist</string>
 				<key>TestsCount</key>
 				<integer>3</integer>
 				<key>TestsFailedCount</key>
-				<integer>0</integer>
+				<integer>1</integer>
 				<key>WarningCount</key>
 				<integer>0</integer>
 				<key>WarningSummaries</key>
@@ -206,7 +248,7 @@
 				<array/>
 			</dict>
 			<key>EndedTime</key>
-			<date>2019-01-09T17:35:39Z</date>
+			<date>2019-01-09T19:06:36Z</date>
 			<key>RunDestination</key>
 			<dict>
 				<key>LocalComputer</key>
@@ -300,7 +342,7 @@
 			<key>SchemeTask</key>
 			<string>BuildAndAction</string>
 			<key>StartedTime</key>
-			<date>2019-01-09T17:35:00Z</date>
+			<date>2019-01-09T19:05:48Z</date>
 			<key>Title</key>
 			<string>Testing workspace TravisSpike with scheme TravisSpike</string>
 		</dict>
@@ -315,12 +357,42 @@
 	<string>1.2</string>
 	<key>Running</key>
 	<false/>
+	<key>TestFailureSummaries</key>
+	<array>
+		<dict>
+			<key>DocumentLocationData</key>
+			<data>
+			YnBsaXN0MDDUAQIDBAUGIiNYJHZlcnNpb25YJG9iamVjdHNZJGFy
+			Y2hpdmVyVCR0b3ASAAGGoKQHCBkaVSRudWxs2gkKCwwNDg8QERIT
+			FBQVFRYXGBcUW2RvY3VtZW50VVJMXxAUc3RhcnRpbmdDb2x1bW5O
+			dW1iZXJfEBJlbmRpbmdDb2x1bW5OdW1iZXJfEBFjaGFyYWN0ZXJS
+			YW5nZUxlbl8QEGxvY2F0aW9uRW5jb2RpbmdWJGNsYXNzXxAQZW5k
+			aW5nTGluZU51bWJlcll0aW1lc3RhbXBfEBJzdGFydGluZ0xpbmVO
+			dW1iZXJfEBFjaGFyYWN0ZXJSYW5nZUxvY4ACE///////////EACA
+			AxAKgABfEFtmaWxlOi8vL1VzZXJzL3phY2hhcnloYXJkaW4vRGVz
+			a3RvcC9UcmF2aXNTcGlrZS9UcmF2aXNTcGlrZVVJVGVzdHMvVHJh
+			dmlzU3Bpa2VVSVRlc3RzLnN3aWZ00hscHR5aJGNsYXNzbmFtZVgk
+			Y2xhc3Nlc18QF0RWVFRleHREb2N1bWVudExvY2F0aW9uox8gIV8Q
+			F0RWVFRleHREb2N1bWVudExvY2F0aW9uXxATRFZURG9jdW1lbnRM
+			b2NhdGlvblhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEkJVRy
+			b290gAEACAARABoAIwAtADIANwA8AEIAVwBjAHoAjwCjALYAvQDQ
+			ANoA7wEDAQUBDgEQARIBFAEWAXQBeQGEAY0BpwGrAcUB2wHkAfYB
+			+QH+AAAAAAAAAgEAAAAAAAAAJgAAAAAAAAAAAAAAAAAAAgA=
+			</data>
+			<key>IssueType</key>
+			<string>Uncategorized</string>
+			<key>Message</key>
+			<string>XCTAssertTrue failed - </string>
+			<key>TestCase</key>
+			<string>TravisSpikeUITests.testExample()</string>
+		</dict>
+	</array>
 	<key>TestSummaryPath</key>
 	<string>/Users/zacharyhardin/Desktop/TravisSpike/fastlane/test_output/TravisSpike.test_result/TestSummaries.plist</string>
 	<key>TestsCount</key>
 	<integer>3</integer>
 	<key>TestsFailedCount</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>WarningCount</key>
 	<integer>0</integer>
 </dict>

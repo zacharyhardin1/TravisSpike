@@ -8,7 +8,7 @@ class TravisSpikeUITests: XCTestCase {
     }
 
     func testExample() {
-        XCTAssert(XCUIApplication().staticTexts["Hello Worldj"].waitForExistence(timeout: 2.0))
+        XCTAssert(XCUIApplication().staticTexts["Hello World"].waitForExistence(timeout: 2.0))
     }
 
 }

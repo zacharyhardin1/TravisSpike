@@ -1,0 +1,2 @@
+Standard output and standard error from PillarTechnology.TravisSpike with process ID 32080 beginning at 13:06:23.389
+

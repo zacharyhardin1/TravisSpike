@@ -112,6 +112,8 @@
         <section id="counters">
           <h2 id="test-count"><span class="number">3</span> tests</h2>
           
+            <h2 id="fail-count"><span class="number">1</span> failures</h2>
+          
         </section>
         <section id="segment-bar">
           <a id="all-segment" onclick="selectSegment(this);" class="selected">All</a><a id="failing-segment" onclick="selectSegment(this);">Failing</a><a id="passing-segment" onclick="selectSegment(this);">Passing</a>
@@ -143,7 +145,7 @@
               <tr class="test passing odd"  onclick="toggleDetails('testPerformanceExample');">
                 <td>
                   
-                    <h3 class="time">0.355s</h3>
+                    <h3 class="time">0.337s</h3>
                   
                 </td>
                 <td><h3 class="title">testPerformanceExample</h3></td>
@@ -155,7 +157,7 @@
         </section>
       
         
-        <section class="test-suite passing" id="TravisSpikeUITests.TravisSpikeUITests">
+        <section class="test-suite failing" id="TravisSpikeUITests.TravisSpikeUITests">
           <section class="heading" onclick="toggleTests(this);">
             <h3 class="title">TravisSpikeUITests.TravisSpikeUITests</h3>
           </section>
@@ -163,14 +165,26 @@
             <table>
             
               
-              <tr class="test passing "  onclick="toggleDetails('testExample');">
+              <tr class="test failing "  onclick="toggleDetails('testExample');">
                 <td>
-                  
-                    <h3 class="time">5.833s</h3>
                   
                 </td>
                 <td><h3 class="title">testExample</h3></td>
               </tr>
+              
+                <tr class="details failing testExample">
+                  <td></td>
+                  <td>
+                    
+                      <section class="test-detail reason">XCTAssertTrue failed - </section>
+                    
+                    
+                      <section class="test-detail snippet"></section>
+                      <section class="test-detail">TravisSpikeUITests.swift:11</section>
+                    
+                    
+                  </td>
+                </tr>
               
             
             </table>
