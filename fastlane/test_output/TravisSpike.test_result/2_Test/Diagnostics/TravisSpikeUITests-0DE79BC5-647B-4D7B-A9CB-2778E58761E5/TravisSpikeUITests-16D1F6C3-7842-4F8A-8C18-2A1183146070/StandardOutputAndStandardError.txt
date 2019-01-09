@@ -1,0 +1,32 @@
+2019-01-09 11:35:32.309480-0600 TravisSpikeUITests-Runner[30699:1751035] libMobileGestalt MobileGestalt.c:890: MGIsDeviceOneOfType is not supported on this platform.
+2019-01-09 11:35:32.353219-0600 TravisSpikeUITests-Runner[30699:1751035] Running tests...
+2019-01-09 11:35:32.690346-0600 TravisSpikeUITests-Runner[30699:1751035] [AXMediaCommon] Unable to look up screen scale
+2019-01-09 11:35:32.690462-0600 TravisSpikeUITests-Runner[30699:1751035] [AXMediaCommon] Unexpected physical screen orientation
+2019-01-09 11:35:32.714176-0600 TravisSpikeUITests-Runner[30699:1751035] [AXMediaCommon] Unable to look up screen scale
+2019-01-09 11:35:32.717825-0600 TravisSpikeUITests-Runner[30699:1751035] [AXMediaCommon] Unable to look up screen scale
+2019-01-09 11:35:32.717950-0600 TravisSpikeUITests-Runner[30699:1751035] [AXMediaCommon] Unexpected physical screen orientation
+Test Suite 'All tests' started at 2019-01-09 11:35:33.093
+Test Suite 'TravisSpikeUITests.xctest' started at 2019-01-09 11:35:33.094
+Test Suite 'TravisSpikeUITests' started at 2019-01-09 11:35:33.095
+Test Case '-[TravisSpikeUITests.TravisSpikeUITests testExample]' started.
+    t =     0.00s Start Test at 2019-01-09 11:35:33.096
+    t =     0.05s Set Up
+    t =     0.06s     Open PillarTechnology.TravisSpike
+    t =     0.09s         Launch PillarTechnology.TravisSpike
+    t =     2.76s             Wait for accessibility to load
+    t =     3.29s             Wait for PillarTechnology.TravisSpike to idle
+    t =     4.58s Waiting 2.0s for "Hello World" StaticText to exist
+    t =     5.60s     Checking `Expect predicate `exists == 1` for object "Hello World" StaticText`
+    t =     5.63s Tear Down
+Test Case '-[TravisSpikeUITests.TravisSpikeUITests testExample]' passed (5.833 seconds).
+Test Suite 'TravisSpikeUITests' passed at 2019-01-09 11:35:38.929.
+	 Executed 1 test, with 0 failures (0 unexpected) in 5.833 (5.835) seconds
+Test Suite 'TravisSpikeUITests.xctest' passed at 2019-01-09 11:35:38.930.
+	 Executed 1 test, with 0 failures (0 unexpected) in 5.833 (5.836) seconds
+Test Suite 'All tests' passed at 2019-01-09 11:35:38.931.
+	 Executed 1 test, with 0 failures (0 unexpected) in 5.833 (5.839) seconds
+
+
+Test session log:
+	/Users/zacharyhardin/Desktop/TravisSpike/fastlane/test_output/TravisSpike.test_result/2_Test/Diagnostics/TravisSpikeUITests-0DE79BC5-647B-4D7B-A9CB-2778E58761E5/TravisSpikeUITests-16D1F6C3-7842-4F8A-8C18-2A1183146070/Session-TravisSpikeUITests-2019-01-09_113528-0hwKxl.log
+

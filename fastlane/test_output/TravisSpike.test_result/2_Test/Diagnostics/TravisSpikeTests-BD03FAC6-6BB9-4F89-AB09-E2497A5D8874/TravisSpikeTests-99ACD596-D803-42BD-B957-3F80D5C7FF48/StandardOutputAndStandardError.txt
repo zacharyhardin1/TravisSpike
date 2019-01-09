@@ -1,0 +1,20 @@
+2019-01-09 11:35:27.438733-0600 TravisSpike[30690:1750607] libMobileGestalt MobileGestalt.c:890: MGIsDeviceOneOfType is not supported on this platform.
+Test Suite 'All tests' started at 2019-01-09 11:35:28.077
+Test Suite 'TravisSpikeTests.xctest' started at 2019-01-09 11:35:28.078
+Test Suite 'TravisSpikeTests' started at 2019-01-09 11:35:28.078
+Test Case '-[TravisSpikeTests.TravisSpikeTests testExample]' started.
+Test Case '-[TravisSpikeTests.TravisSpikeTests testExample]' passed (0.001 seconds).
+Test Case '-[TravisSpikeTests.TravisSpikeTests testPerformanceExample]' started.
+/Users/zacharyhardin/Desktop/TravisSpike/TravisSpikeTests/TravisSpikeTests.swift:29: Test Case '-[TravisSpikeTests.TravisSpikeTests testPerformanceExample]' measured [Time, seconds] average: 0.000, relative standard deviation: 119.438%, values: [0.000003, 0.000001, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000], performanceMetricID:com.apple.XCTPerformanceMetric_WallClockTime, baselineName: "", baselineAverage: , maxPercentRegression: 10.000%, maxPercentRelativeStandardDeviation: 10.000%, maxRegression: 0.100, maxStandardDeviation: 0.100
+Test Case '-[TravisSpikeTests.TravisSpikeTests testPerformanceExample]' passed (0.355 seconds).
+Test Suite 'TravisSpikeTests' passed at 2019-01-09 11:35:28.436.
+	 Executed 2 tests, with 0 failures (0 unexpected) in 0.356 (0.358) seconds
+Test Suite 'TravisSpikeTests.xctest' passed at 2019-01-09 11:35:28.436.
+	 Executed 2 tests, with 0 failures (0 unexpected) in 0.356 (0.359) seconds
+Test Suite 'All tests' passed at 2019-01-09 11:35:28.437.
+	 Executed 2 tests, with 0 failures (0 unexpected) in 0.356 (0.360) seconds
+
+
+Test session log:
+	/Users/zacharyhardin/Desktop/TravisSpike/fastlane/test_output/TravisSpike.test_result/2_Test/Diagnostics/TravisSpikeTests-BD03FAC6-6BB9-4F89-AB09-E2497A5D8874/TravisSpikeTests-99ACD596-D803-42BD-B957-3F80D5C7FF48/Session-TravisSpikeTests-2019-01-09_113509-nQoGvt.log
+

@@ -50,7 +50,7 @@
 				<array/>
 			</dict>
 			<key>EndedTime</key>
-			<date>2019-01-09T17:17:05Z</date>
+			<date>2019-01-09T17:35:39Z</date>
 			<key>RunDestination</key>
 			<dict>
 				<key>LocalComputer</key>
@@ -144,7 +144,7 @@
 			<key>SchemeTask</key>
 			<string>Build</string>
 			<key>StartedTime</key>
-			<date>2019-01-09T17:15:56Z</date>
+			<date>2019-01-09T17:34:46Z</date>
 			<key>Title</key>
 			<string>Build "TravisSpike"</string>
 		</dict>
@@ -206,7 +206,7 @@
 				<array/>
 			</dict>
 			<key>EndedTime</key>
-			<date>2019-01-09T17:17:05Z</date>
+			<date>2019-01-09T17:35:39Z</date>
 			<key>RunDestination</key>
 			<dict>
 				<key>LocalComputer</key>
@@ -300,7 +300,7 @@
 			<key>SchemeTask</key>
 			<string>BuildAndAction</string>
 			<key>StartedTime</key>
-			<date>2019-01-09T17:16:15Z</date>
+			<date>2019-01-09T17:35:00Z</date>
 			<key>Title</key>
 			<string>Testing workspace TravisSpike with scheme TravisSpike</string>
 		</dict>

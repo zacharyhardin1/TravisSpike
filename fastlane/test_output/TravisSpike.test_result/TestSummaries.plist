@@ -8,7 +8,7 @@
 	<array>
 		<dict>
 			<key>DiagnosticsDirectory</key>
-			<string>TravisSpikeTests-E5BB3B06-21C0-419C-8BD6-35E166A9E723</string>
+			<string>TravisSpikeTests-BD03FAC6-6BB9-4F89-AB09-E2497A5D8874</string>
 			<key>ProjectPath</key>
 			<string>TravisSpike.xcodeproj</string>
 			<key>TargetName</key>
@@ -23,22 +23,22 @@
 			<array>
 				<dict>
 					<key>Duration</key>
-					<real>0.39771103858947754</real>
+					<real>0.36020505428314209</real>
 					<key>Subtests</key>
 					<array>
 						<dict>
 							<key>Duration</key>
-							<real>0.39639294147491455</real>
+							<real>0.35854196548461914</real>
 							<key>Subtests</key>
 							<array>
 								<dict>
 									<key>Duration</key>
-									<real>0.39542996883392334</real>
+									<real>0.35758507251739502</real>
 									<key>Subtests</key>
 									<array>
 										<dict>
 											<key>Duration</key>
-											<real>0.00085306167602539062</real>
+											<real>0.00090801715850830078</real>
 											<key>TestIdentifier</key>
 											<string>TravisSpikeTests/testExample()</string>
 											<key>TestName</key>
@@ -48,11 +48,11 @@
 											<key>TestStatus</key>
 											<string>Success</string>
 											<key>TestSummaryGUID</key>
-											<string>5A293A16-DB50-4499-AE9B-006E66AF1972</string>
+											<string>E7A62BC4-E5DD-4F24-804F-668D4EAAFDF3</string>
 										</dict>
 										<dict>
 											<key>Duration</key>
-											<real>0.3931809663772583</real>
+											<real>0.355476975440979</real>
 											<key>PerformanceMetrics</key>
 											<array>
 												<dict>
@@ -68,16 +68,16 @@
 													<real>0.10000000000000001</real>
 													<key>Measurements</key>
 													<array>
-														<real>4.0879999999999997e-06</real>
-														<real>8.5099999999999998e-07</real>
-														<real>4.3099999999999998e-07</real>
-														<real>5.1799999999999995e-07</real>
-														<real>4.0999999999999999e-07</real>
-														<real>4.0499999999999999e-07</real>
-														<real>4.03e-07</real>
-														<real>4.15e-07</real>
-														<real>4.4999999999999998e-07</real>
-														<real>4.2300000000000002e-07</real>
+														<real>2.785e-06</real>
+														<real>6.6899999999999997e-07</real>
+														<real>4.1800000000000001e-07</real>
+														<real>3.41e-07</real>
+														<real>3.0899999999999997e-07</real>
+														<real>3.4999999999999998e-07</real>
+														<real>3.1100000000000002e-07</real>
+														<real>3.0800000000000001e-07</real>
+														<real>3.3000000000000002e-07</real>
+														<real>3.0499999999999999e-07</real>
 													</array>
 													<key>Name</key>
 													<string>Time</string>
@@ -94,7 +94,7 @@
 											<key>TestStatus</key>
 											<string>Success</string>
 											<key>TestSummaryGUID</key>
-											<string>935BC860-2171-4D22-A358-E48F1E45D17E</string>
+											<string>2B192FA6-0731-44C2-BA25-7C984B406A2E</string>
 										</dict>
 									</array>
 									<key>TestIdentifier</key>
@@ -124,7 +124,7 @@
 		</dict>
 		<dict>
 			<key>DiagnosticsDirectory</key>
-			<string>TravisSpikeUITests-D8C6BC21-9FD9-44CD-B211-4EB12DF1B237</string>
+			<string>TravisSpikeUITests-0DE79BC5-647B-4D7B-A9CB-2778E58761E5</string>
 			<key>ProjectPath</key>
 			<string>TravisSpike.xcodeproj</string>
 			<key>TargetName</key>
@@ -139,17 +139,17 @@
 			<array>
 				<dict>
 					<key>Duration</key>
-					<real>4.9927020072937012</real>
+					<real>5.8386809825897217</real>
 					<key>Subtests</key>
 					<array>
 						<dict>
 							<key>Duration</key>
-							<real>4.9907479286193848</real>
+							<real>5.8364059925079346</real>
 							<key>Subtests</key>
 							<array>
 								<dict>
 									<key>Duration</key>
-									<real>4.9892081022262573</real>
+									<real>5.8348031044006348</real>
 									<key>Subtests</key>
 									<array>
 										<dict>
@@ -159,98 +159,137 @@
 													<key>ActivityType</key>
 													<string>com.apple.dt.xctest.activity-type.internal</string>
 													<key>FinishTimeInterval</key>
-													<real>568747020.44893301</real>
+													<real>568748133.139094</real>
 													<key>StartTimeInterval</key>
-													<real>568747020.40139997</real>
+													<real>568748133.09631097</real>
 													<key>Title</key>
-													<string>Start Test at 2019-01-09 11:17:00.401</string>
+													<string>Start Test at 2019-01-09 11:35:33.096</string>
 													<key>UUID</key>
-													<string>2A9A7573-B001-416A-90EB-48FBE0EEC028</string>
+													<string>0F60AAD8-9E47-48E8-88BF-D0AD38A5E26D</string>
 												</dict>
 												<dict>
 													<key>ActivityType</key>
 													<string>com.apple.dt.xctest.activity-type.deletedAttachment</string>
 													<key>FinishTimeInterval</key>
-													<real>568747020.40139997</real>
+													<real>568748133.09631097</real>
 													<key>StartTimeInterval</key>
-													<real>568747020.40139997</real>
+													<real>568748133.09631097</real>
 													<key>Title</key>
 													<string>Some screenshots were deleted because your scheme is configured to remove automatic screenshots on success.</string>
 													<key>UUID</key>
-													<string>105B5D01-47BE-4F40-8794-717EB1F4A4A0</string>
+													<string>89EE1038-C4AB-4EC9-BDC1-DF9EC28FD8C3</string>
 												</dict>
 												<dict>
 													<key>ActivityType</key>
 													<string>com.apple.dt.xctest.activity-type.internal</string>
 													<key>FinishTimeInterval</key>
-													<real>568747025.18239796</real>
+													<real>568748137.66771698</real>
 													<key>StartTimeInterval</key>
-													<real>568747020.45557499</real>
+													<real>568748133.14067304</real>
 													<key>SubActivities</key>
 													<array>
 														<dict>
 															<key>ActivityType</key>
 															<string>com.apple.dt.xctest.activity-type.internal</string>
 															<key>FinishTimeInterval</key>
-															<real>568747025.18169105</real>
+															<real>568748137.66622496</real>
 															<key>StartTimeInterval</key>
-															<real>568747020.46712506</real>
+															<real>568748133.15370905</real>
 															<key>SubActivities</key>
 															<array>
 																<dict>
 																	<key>ActivityType</key>
 																	<string>com.apple.dt.xctest.activity-type.internal</string>
 																	<key>FinishTimeInterval</key>
-																	<real>568747025.18078399</real>
+																	<real>568748137.66452801</real>
 																	<key>StartTimeInterval</key>
-																	<real>568747020.49233902</real>
+																	<real>568748133.18294597</real>
 																	<key>SubActivities</key>
 																	<array>
 																		<dict>
 																			<key>ActivityType</key>
 																			<string>com.apple.dt.xctest.activity-type.internal</string>
 																			<key>FinishTimeInterval</key>
-																			<real>568747024.17581797</real>
+																			<real>568748135.96254897</real>
 																			<key>StartTimeInterval</key>
-																			<real>568747023.92130101</real>
+																			<real>568748135.85775602</real>
+																			<key>Title</key>
+																			<string>Wait for accessibility to load</string>
+																			<key>UUID</key>
+																			<string>9F7ACCE0-500C-4533-BDC8-697D84844F5A</string>
+																		</dict>
+																		<dict>
+																			<key>ActivityType</key>
+																			<string>com.apple.dt.xctest.activity-type.internal</string>
+																			<key>FinishTimeInterval</key>
+																			<real>568748136.660707</real>
+																			<key>StartTimeInterval</key>
+																			<real>568748136.38298702</real>
 																			<key>Title</key>
 																			<string>Wait for PillarTechnology.TravisSpike to idle</string>
 																			<key>UUID</key>
-																			<string>3CC6E260-460E-446E-BE0D-45A7B203C710</string>
+																			<string>9BDFBE81-C3B3-4272-AAFA-347A66877848</string>
 																		</dict>
 																	</array>
 																	<key>Title</key>
 																	<string>Launch PillarTechnology.TravisSpike</string>
 																	<key>UUID</key>
-																	<string>380E9431-0153-444B-AD1F-14BC2D624BB7</string>
+																	<string>DBF26F58-0D68-473A-B689-E1F2D29357AD</string>
 																</dict>
 															</array>
 															<key>Title</key>
 															<string>Open PillarTechnology.TravisSpike</string>
 															<key>UUID</key>
-															<string>705EFCCE-07E1-490C-9B79-3AFB3F69DEA8</string>
+															<string>F02AEEC6-EDC7-48C6-9659-0AD0597AF97D</string>
 														</dict>
 													</array>
 													<key>Title</key>
 													<string>Set Up</string>
 													<key>UUID</key>
-													<string>43988DCC-8F48-4EE0-854E-DDA932C321EA</string>
+													<string>62C3F067-16A3-43A1-ADD9-EBF39B750C8E</string>
 												</dict>
 												<dict>
 													<key>ActivityType</key>
 													<string>com.apple.dt.xctest.activity-type.internal</string>
 													<key>FinishTimeInterval</key>
-													<real>568747025.18328595</real>
+													<real>568748138.72200704</real>
 													<key>StartTimeInterval</key>
-													<real>568747025.18288398</real>
+													<real>568748137.67415798</real>
+													<key>SubActivities</key>
+													<array>
+														<dict>
+															<key>ActivityType</key>
+															<string>com.apple.dt.xctest.activity-type.internal</string>
+															<key>FinishTimeInterval</key>
+															<real>568748138.72123504</real>
+															<key>StartTimeInterval</key>
+															<real>568748138.69296706</real>
+															<key>Title</key>
+															<string>Checking `Expect predicate `exists == 1` for object "Hello World" StaticText`</string>
+															<key>UUID</key>
+															<string>53BBCF57-91F1-43DA-9394-51678DAFD7DA</string>
+														</dict>
+													</array>
+													<key>Title</key>
+													<string>Waiting 2.0s for "Hello World" StaticText to exist</string>
+													<key>UUID</key>
+													<string>7E4E189A-A6CC-43C2-B5F2-8FD1539F4B36</string>
+												</dict>
+												<dict>
+													<key>ActivityType</key>
+													<string>com.apple.dt.xctest.activity-type.internal</string>
+													<key>FinishTimeInterval</key>
+													<real>568748138.72346401</real>
+													<key>StartTimeInterval</key>
+													<real>568748138.72295499</real>
 													<key>Title</key>
 													<string>Tear Down</string>
 													<key>UUID</key>
-													<string>2A1BBE29-1F28-4F46-9684-C0B8C2771A50</string>
+													<string>63FFD811-78BE-488B-A60E-1158FE90FF61</string>
 												</dict>
 											</array>
 											<key>Duration</key>
-											<real>4.9879260063171387</real>
+											<real>5.8333220481872559</real>
 											<key>TestIdentifier</key>
 											<string>TravisSpikeUITests/testExample()</string>
 											<key>TestName</key>
@@ -260,7 +299,7 @@
 											<key>TestStatus</key>
 											<string>Success</string>
 											<key>TestSummaryGUID</key>
-											<string>85F577C7-95CC-48DB-B9D0-55ADE8EE5932</string>
+											<string>A9147B9F-851F-47DE-9F8A-01FBEEE0D368</string>
 										</dict>
 									</array>
 									<key>TestIdentifier</key>
