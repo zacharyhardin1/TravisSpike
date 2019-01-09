@@ -1,6 +1,7 @@
 # TravisSpike
 
-Setting up Git:
+## Setting up Git:
+
 `git init`
 
 `git add .` & `git commit 'Initial Commit'`
