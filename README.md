@@ -9,3 +9,9 @@
 `git remote add origin git@github.com:zacharyhardin1/TravisSpike.git`
 
 `git remote -v` to confirm
+
+
+## Setting up Fastlane:
+`fastlane init`
+Update Fastlane file 
+`fastlane tests`

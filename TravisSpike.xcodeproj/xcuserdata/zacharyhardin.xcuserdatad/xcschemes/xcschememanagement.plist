@@ -9,6 +9,34 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>TravisSpikeTests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>TravisSpikeUITests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>74A7F6F521E65D4000F27BD7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>74A7F70921E65D4100F27BD7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>74A7F71421E65D4100F27BD7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>

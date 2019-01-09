@@ -1,0 +1,29 @@
+2019-01-09 11:16:59.556001-0600 TravisSpikeUITests-Runner[29555:1679501] libMobileGestalt MobileGestalt.c:890: MGIsDeviceOneOfType is not supported on this platform.
+2019-01-09 11:16:59.595295-0600 TravisSpikeUITests-Runner[29555:1679501] Running tests...
+2019-01-09 11:16:59.992869-0600 TravisSpikeUITests-Runner[29555:1679501] [AXMediaCommon] Unable to look up screen scale
+2019-01-09 11:16:59.992987-0600 TravisSpikeUITests-Runner[29555:1679501] [AXMediaCommon] Unexpected physical screen orientation
+2019-01-09 11:17:00.018364-0600 TravisSpikeUITests-Runner[29555:1679501] [AXMediaCommon] Unable to look up screen scale
+2019-01-09 11:17:00.022164-0600 TravisSpikeUITests-Runner[29555:1679501] [AXMediaCommon] Unable to look up screen scale
+2019-01-09 11:17:00.022276-0600 TravisSpikeUITests-Runner[29555:1679501] [AXMediaCommon] Unexpected physical screen orientation
+Test Suite 'All tests' started at 2019-01-09 11:17:00.399
+Test Suite 'TravisSpikeUITests.xctest' started at 2019-01-09 11:17:00.400
+Test Suite 'TravisSpikeUITests' started at 2019-01-09 11:17:00.400
+Test Case '-[TravisSpikeUITests.TravisSpikeUITests testExample]' started.
+    t =     0.00s Start Test at 2019-01-09 11:17:00.401
+    t =     0.06s Set Up
+    t =     0.07s     Open PillarTechnology.TravisSpike
+    t =     0.09s         Launch PillarTechnology.TravisSpike
+    t =     3.52s             Wait for PillarTechnology.TravisSpike to idle
+    t =     4.78s Tear Down
+Test Case '-[TravisSpikeUITests.TravisSpikeUITests testExample]' passed (4.988 seconds).
+Test Suite 'TravisSpikeUITests' passed at 2019-01-09 11:17:05.389.
+	 Executed 1 test, with 0 failures (0 unexpected) in 4.988 (4.989) seconds
+Test Suite 'TravisSpikeUITests.xctest' passed at 2019-01-09 11:17:05.390.
+	 Executed 1 test, with 0 failures (0 unexpected) in 4.988 (4.991) seconds
+Test Suite 'All tests' passed at 2019-01-09 11:17:05.391.
+	 Executed 1 test, with 0 failures (0 unexpected) in 4.988 (4.993) seconds
+
+
+Test session log:
+	/Users/zacharyhardin/Desktop/TravisSpike/fastlane/test_output/TravisSpike.test_result/2_Test/Diagnostics/TravisSpikeUITests-D8C6BC21-9FD9-44CD-B211-4EB12DF1B237/TravisSpikeUITests-FE03A49A-72A1-4197-83B6-140A14CF4E44/Session-TravisSpikeUITests-2019-01-09_111657-raHWxP.log
+
